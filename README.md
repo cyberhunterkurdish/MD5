@@ -5,13 +5,3 @@ Cyber Hunter Kurdish // This Tool For Decrypt MD5 Hash Use WordList |||  https:/
 
 
 
-[+] Download To Any Sistem!
-git clone https://github.com/cyberhunterkurdish/MD5.git
-ls
-cd MD5
-ls
-python MD5.py
-
-
-[+] -- [+] 
- python MD5.py --MD5 <Your Hash MD5> --WordList wordlist.txt
